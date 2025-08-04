@@ -16,7 +16,7 @@ I love building web apps with clean, modern UI while improving my coding skills.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22" style="background: white;"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22"/> Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
@@ -29,7 +29,7 @@ I love building web apps with clean, modern UI while improving my coding skills.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="22" style="background:white;border-radius:50%;"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" style="background:white;border-radius:50%;padding:2px;"/> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DcoXer&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcoXer&layout=compact&theme=tokyonight" height="165" />
@@ -54,7 +54,8 @@ I love building web apps with clean, modern UI while improving my coding skills.
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" style="background:white;border-radius:50%;padding:5px;"/>
   </a>
   <a href="https://instagram.com/DcoXer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="0"/> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40" style="border-radius:8px;"/>
   </a>
 </p>
 
