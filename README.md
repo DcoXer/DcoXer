@@ -36,7 +36,7 @@ I love building web apps with clean, modern UI while improving my coding skills.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME-LO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DcoXer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
