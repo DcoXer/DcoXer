@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> About Me
+## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="22" style="background:white;border-radius:50%;"/> About Me
 I am a **beginner developer** currently learning **Laravel** (backend) and **React** (frontend).  
 I love building web apps with clean, modern UI while improving my coding skills.  
 
@@ -23,13 +23,13 @@ I love building web apps with clean, modern UI while improving my coding skills.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="45" style="background:white;padding:4px;border-radius:50%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" style="background:white;border-radius:50%;padding:2px;"/> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DcoXer&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcoXer&layout=compact&theme=tokyonight" height="165" />
@@ -41,17 +41,21 @@ I love building web apps with clean, modern UI while improving my coding skills.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Visitors
+## 🌍 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DcoXer&style=for-the-badge&color=38B2AC" alt="Profile Views" />
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> Connect with Me
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/DcoXer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
-  <a href="https://instagram.com/DcoXer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/></a>
+  <a href="https://github.com/DcoXer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" style="background:white;border-radius:50%;padding:5px;"/>
+  </a>
+  <a href="https://instagram.com/DcoXer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  </a>
 </p>
 
 ---
