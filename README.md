@@ -1,6 +1,6 @@
 <!-- 🌟 Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME-LO/USERNAME-LO/main/banner-dcoxer.png" alt="DcoXer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/DcoXer/DcoXer/main/banner-dcoxer.png" alt="DcoXer Banner" width="100%" />
 </p>
 
 <!-- ✨ Animated Text -->
