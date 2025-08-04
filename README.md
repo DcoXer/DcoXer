@@ -53,7 +53,7 @@ I love building web apps with clean, modern UI while improving my coding skills.
   <a href="https://github.com/DcoXer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" style="background:white;border-radius:50%;padding:5px;"/>
   </a>
-  <a href="https://instagram.com/DcoXer">
+  <a href="https://instagram.com/firzi_fathir28">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="0"/> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40" style="border-radius:8px;"/>
   </a>
