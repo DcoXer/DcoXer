@@ -10,13 +10,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="22" style="background:white;border-radius:50%;"/> About Me
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="22" style="background:white;border-radius:50%;"/> About Me
 I am a **beginner developer** currently learning **Laravel** (backend) and **React** (frontend).  
 I love building web apps with clean, modern UI while improving my coding skills.  
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22"/> Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22"/> Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
