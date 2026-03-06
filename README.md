@@ -29,7 +29,7 @@ I love building web apps with clean, modern UI while improving my coding skills.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" style="background:white;border-radius:50%;padding:2px;"/> GitHub Stats
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" style="background:white;border-radius:50%;padding:2px;"/> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DcoXer&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcoXer&layout=compact&theme=tokyonight" height="165" />
